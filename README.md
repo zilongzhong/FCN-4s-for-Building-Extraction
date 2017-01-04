@@ -14,6 +14,9 @@ Fully Convolutional Models for Semantic Segmentation
 Jonathan Long*, Evan Shelhamer*, Trevor Darrell
 CVPR 2015
 arXiv:1411.4038
+
+[FCN-4s Model](FCN for building and road extraction.pdf) for building extraction.
+
 ```
 Training command:<br />
 ```python
