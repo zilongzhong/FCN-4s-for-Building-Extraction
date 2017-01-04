@@ -14,15 +14,14 @@ Fully Convolutional Models for Semantic Segmentation
 Jonathan Long*, Evan Shelhamer*, Trevor Darrell
 CVPR 2015
 arXiv:1411.4038
-
+```
 [FCN-4s Model](FCN4s_building.caffemodel) for building extraction in high spatial resolution imagery.
 
-```
 Training command:<br />
 ```python
-    python TrainingVal/solve.py
+python TrainingVal/solve.py
 ```
 Evaluating command:<br />
 ```python
-    python evaluate.py
+python evaluate.py
 ```
