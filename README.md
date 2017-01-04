@@ -8,7 +8,7 @@ IGARSS 2016<br />
 </body>
 Before deploying this model, make sure you have installed the latest [BVLC/caffe:master.](https://github.com/BVLC/caffe)<br />
 
-Futher exploration about FCN models please refer to [FCN for Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)<br />
+Futher exploration about FCN models please refer to [FCN for Segmentation.](https://github.com/shelhamer/fcn.berkeleyvision.org)<br />
 
 Fully Convolutional Models for Semantic Segmentation<br />
 Jonathan Long*, Evan Shelhamer*, Trevor Darrell<br />
@@ -16,6 +16,6 @@ CVPR 2015<br />
 arXiv:1411.4038<br />
 
 Training command:<br />
-python TrainingVal/solve.py<br />
+    python TrainingVal/solve.py<br />
 Evaluating command:<br />
-python evaluate.py<br />
+    python evaluate.py<br />
