@@ -16,5 +16,7 @@ Jonathan Long*, Evan Shelhamer*, Trevor Darrell<br />
 CVPR 2015<br />
 arXiv:1411.4038<br />
 
-
-
+Training command:
+python TrainingVal/solve.py
+Evaluating command:
+python evaluate.py
