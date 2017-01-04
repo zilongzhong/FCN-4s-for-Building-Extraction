@@ -8,7 +8,7 @@ Zilong Zhong*, Jonathan Li, Weihong Cui, Han Jiang
 IGARSS 2016
 ```
 
-Futher exploration about FCN models please refer to [FCN for Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org).<br />
+Futher exploration about FCN models please refer to [shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org).<br />
 ```jason
 Fully Convolutional Models for Semantic Segmentation
 Jonathan Long*, Evan Shelhamer*, Trevor Darrell
