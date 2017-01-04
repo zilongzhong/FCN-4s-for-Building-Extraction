@@ -7,7 +7,7 @@ layer {
   python_param {
     module: "voc_layers"
     layer: "VOCSegDataLayer"
-    param_str: "{\'voc_dir\': \'/home/finoa/Desktop/Mat_dataset\', \'seed\': 1337, \'split\': \'val\', \'mean\': (87.70652426, 95.65976301, 94.12943263)}"
+    param_str: "{\'voc_dir\': \'/path/to/Dataset\', \'seed\': 1337, \'split\': \'val\', \'mean\': (87.70652426, 95.65976301, 94.12943263)}"
   }
 }
 layer {
