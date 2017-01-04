@@ -1,6 +1,6 @@
 # Fully convolutional networks for building and road extraction
 
-This is the reference implementation of the codes and models for the FCN-4s in the [IGARSS2016 FCN-4s paper](FCN for building and road extraction.pdf).<br />
+This is the reference implementation of the codes and models for the FCN-4s in the [paper/IGARSS2016 FCN-4s paper](FCN for building and road extraction.pdf).<br />
 Before deploying this model, make sure you have installed the latest [BVLC/caffe:master](https://github.com/BVLC/caffe).<br />
 ```jason
 Fully convolutional networks for building and road extraction: Preliminary results
@@ -15,7 +15,7 @@ Jonathan Long*, Evan Shelhamer*, Trevor Darrell
 CVPR 2015
 arXiv:1411.4038
 ```
-[FCN-4s Model](FCN4s_building.caffemodel) for building extraction in high spatial resolution imagery.
+[FCN-4s Model](model/FCN4s_building.caffemodel) for building extraction in high spatial resolution imagery.
 
 Training command:<br />
 ```python
