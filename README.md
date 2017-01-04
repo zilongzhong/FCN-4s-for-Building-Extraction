@@ -16,6 +16,10 @@ CVPR 2015
 arXiv:1411.4038
 ```
 Training command:<br />
+```python
     python TrainingVal/solve.py<br />
+```
 Evaluating command:<br />
+```python
     python evaluate.py<br />
+```
