@@ -15,7 +15,7 @@ Jonathan Long*, Evan Shelhamer*, Trevor Darrell
 CVPR 2015
 arXiv:1411.4038
 ```
-[FCN-4s Model](model/FCN4s_building.caffemodel) for building extraction in high spatial resolution imagery.
+[FCN-4s Model](caffemodel/FCN4s_building.caffemodel) for building extraction in high spatial resolution imagery.
 
 Training command:<br />
 ```python
