@@ -21,7 +21,7 @@ Training command:<br />
 ```python
 python TrainingVal/solve.py
 ```
-Evaluation command:<br />
+Evaluating command:<br />
 ```python
 python evaluate.py
 ```
